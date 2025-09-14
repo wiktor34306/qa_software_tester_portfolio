@@ -1,4 +1,4 @@
-# Software tester portfolio
+# Quality Assurance Portfolio
 - Author: Wiktor Markowicz
 - [About me](#about-me)
 - [Experience](#experience)
@@ -62,6 +62,7 @@ I completed 8 SQL exercises, including:
 🧱 **Database structure and creation commands:** [schema.sql](schema.sql)  
 🧠 **SQL queries and exercises:** [queries.sql](queries.sql)  
 🖼️ **Screenshots from pgAdmin:** [screenshots/](screenshots/)
+​🗓️ **ERD Diagram:** [ERD of qa_shop database](erd%20of%20qa_shop%20database.png)
 
 ## Bugs and reports created in Jira
 Here is the link to bugs and reports, which I created during GoIT's 'QA Marathon,' in which I participated in 2023: [Github (click)](https://github.com/wiktor34306/Tests-in-Jira).

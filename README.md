@@ -5,6 +5,8 @@
 - [Tools](#tools)
 - [Soft skills](#soft-skills)
 - [Test scenarios](#test-scenarios)
+- [SQL queries](#sql-queries)
+- [Postman](#postman)
 - [Bugs and reports created in Jira](#bugs-and-reports-created-in-jira)
 - [QA and testing Instagram accounts that I follow](#qa-and-testing-instagram-accounts-that-i-follow)
 
@@ -39,6 +41,30 @@ Working as a software tester at [Ovoo](https://ovoo.pl/) was my first profession
 ## Test scenarios
 Here are the test scenarios created for the website [Saucedemo](www.saucedemo.com/):
 - [Google Sheets: (Click)](https://docs.google.com/spreadsheets/d/1XCoI36VJWxI9ZWLA7erLFLewxhpOUiTCQag5bftcwrY/edit?usp=sharing)
+
+## SQL Practice Project – PostgreSQL & PgAdmin
+
+I created a relational database using **PostgreSQL** and managed it through **pgAdmin**. 
+
+### Database Structure
+The database consists of four related tables:
+- `user` – stores user information;
+- `order` – tracks customer orders;
+- `order_item` – contains order details;
+- `product` – describes details about products.
+
+### Tasks Completed
+I completed 8 SQL exercises, including:
+- Filtering data with `WHERE`
+- Joining tables using `INNER JOIN`
+- Aggregating results with `GROUP BY` and `HAVING`
+- Sorting and limiting results
+
+🧱 **Database structure and creation commands:** [schema.sql](schema.sql)  
+🧠 **SQL queries and exercises:** [queries.sql](queries.sql)  
+🖼️ **Screenshots from pgAdmin:** [screenshots/](screenshots/)
+
+## Postman
 
 ## Bugs and reports created in Jira
 Here is the link to bugs and reports, which I created during GoIT's 'QA Marathon,' in which I participated in 2023: [Github (click)](https://github.com/wiktor34306/Tests-in-Jira).

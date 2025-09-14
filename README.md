@@ -5,8 +5,7 @@
 - [Tools](#tools)
 - [Soft skills](#soft-skills)
 - [Test scenarios](#test-scenarios)
-- [SQL queries](#sql-queries)
-- [Postman](#postman)
+- [SQL Practice Project – PostgreSQL & PgAdmin](#sql-practice-project-postgresql-pgadmin)
 - [Bugs and reports created in Jira](#bugs-and-reports-created-in-jira)
 - [QA and testing Instagram accounts that I follow](#qa-and-testing-instagram-accounts-that-i-follow)
 
@@ -63,8 +62,6 @@ I completed 8 SQL exercises, including:
 🧱 **Database structure and creation commands:** [schema.sql](schema.sql)  
 🧠 **SQL queries and exercises:** [queries.sql](queries.sql)  
 🖼️ **Screenshots from pgAdmin:** [screenshots/](screenshots/)
-
-## Postman
 
 ## Bugs and reports created in Jira
 Here is the link to bugs and reports, which I created during GoIT's 'QA Marathon,' in which I participated in 2023: [Github (click)](https://github.com/wiktor34306/Tests-in-Jira).

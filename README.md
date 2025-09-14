@@ -13,7 +13,7 @@
 ## About me ℹ️
 Hello, I am Wiktor Markowicz. In 2025, I graduated my master's degree in Computer Science. Testing came into my life quite unexpectedly. While studying, I was looking for an internship as a web developer. One of my messages was answered by a company that offered me a position as a software tester instead of a web developer. Without thinking twice, I agreed. It was a bull's eye! My accuracy, meticulousness, and attention to detail proved to be very useful. Since then, I have been exploring topics related to quality and software testing.
 
-Link to my LinkedIn profile: [LinkedIn (click)](www.linkedin.com/in/wiktor-markowicz-3449481b5).
+Link to my LinkedIn profile: [LinkedIn (click)](https://www.linkedin.com/in/wiktor-markowicz-3449481b5).
 
 ## Experience
 Working as a software tester at [Ovoo](https://ovoo.pl/) was my first professional position related to quality control. I significantly developed both my technical and soft skills, such as strong analytical thinking, and gained some knowledge on how to create test cases, how to handle and add tickets on Redmine, and how to create user manuals.
@@ -38,7 +38,7 @@ Working as a software tester at [Ovoo](https://ovoo.pl/) was my first profession
 
 
 ## Test scenarios
-Here are the test scenarios created for the website [Saucedemo](www.saucedemo.com/):
+Here are the test scenarios created for the website [Saucedemo](https://www.saucedemo.com/):
 - [Google Sheets: (Click)](https://docs.google.com/spreadsheets/d/1XCoI36VJWxI9ZWLA7erLFLewxhpOUiTCQag5bftcwrY/edit?usp=sharing)
 
 ## SQL Practice Project – PostgreSQL & pgAdmin
